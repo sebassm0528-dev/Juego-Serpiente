@@ -7,7 +7,7 @@ El objetivo es comer la comida que aparece en pantalla y crecer sin chocar con l
 
 ---
 
-Para jugar solo descargue Snake.exe
+Para jugar solo descargar Snake.exe
 
 ---
 
