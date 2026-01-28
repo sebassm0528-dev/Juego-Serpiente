@@ -2,7 +2,7 @@
 
 ---
 
-Juego clásico de la serpiente implementado en Python/JavaScript (o el lenguaje que uses). 
+Juego clásico de la serpiente implementado en Python (con la libreria PYGAME). 
 El objetivo es comer la comida que aparece en pantalla y crecer sin chocar con las paredes o contigo mismo.
 
 ---
